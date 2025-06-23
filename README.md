@@ -12,3 +12,4 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/tomgrv)
 [![X](https://img.shields.io/badge/@tomgrv-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/tomgrv)
+[![X](https://img.shields.io/badge/@tomgrv-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tomgrv)
