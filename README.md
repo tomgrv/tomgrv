@@ -1,4 +1,4 @@
-💼 Service manager with 14+ years of expertise in high-tech, industrial & quality oriented context;
+💼 Enterprise Architect with 18+ years of expertise in high-tech, industrial & quality oriented context;
 
 💡 Triple expertise in product management, industrial engineering & service management;
 
