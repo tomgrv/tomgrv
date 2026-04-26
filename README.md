@@ -1,6 +1,6 @@
 💼 Enterprise Architect with 18+ years of expertise in high-tech, industrial & quality oriented context;
 
-💡 Triple expertise in product management, industrial engineering & service management;
+💡 Triple expertise in product management, industrial engineering & IT service management;
 
 🚀 I lead organizations towards operational excellence, especially on -but not limited to- the Industry 4.0 verge;
 
